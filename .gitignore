@@ -5,8 +5,9 @@ dist/
 *log.txt
 *.pth
 *.h5
-
-
+.catkin_tools/
+devel/
+logs/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
